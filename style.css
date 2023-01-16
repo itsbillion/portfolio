@@ -1,0 +1,21 @@
+body {
+    background-color: #FAF8F1;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: #E5BA73;
+    width: 5%
+}
+h1 {
+    color: #C58940;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3 {color: #C58940;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    color: #C58940;
+    font-family: 'Times New Roman', Times, serif;
+}
